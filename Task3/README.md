@@ -11,7 +11,7 @@
 - Interpret model coefficients to understand feature impacts.
 
 
-## 📊 Dataset Used
+## Dataset Used
 
 - Source: [House Price Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
 - Features:
@@ -22,14 +22,14 @@
   - `price` – House price (numeric)
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
-## 🚀 Steps Performed
+## Steps Performed
 
 1. **Loaded Dataset** from CSV
 2. **Preprocessed Data**:
