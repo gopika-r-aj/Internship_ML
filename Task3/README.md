@@ -48,6 +48,6 @@
 
 ## Outputs
 
- The screenshots of the outputs are added to "Output_screenshots"
+ The screenshots of the outputs are added to "Outputs_screenshots"
 
 
