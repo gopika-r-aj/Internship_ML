@@ -28,5 +28,5 @@ In this task, I have implemented the **K-Nearest Neighbors (KNN)** algorithm usi
 - Achieved high accuracy on test data (typically near 100%)
 - Plotted:
   - Confusion Matrix
-  - Decision Boundary for Petal features
-       The screenshots of the output are added to 'Output_screenshots'.
+  - Decision Boundary for Petal features.
+  - The screenshots of the output are added to 'Output_screenshots'.
