@@ -29,7 +29,8 @@ This task covers:
 
 ##  Results
 The result will be:
-    - Print accuracy scores
-    - Show classification reports
-    - Display a 2D decision boundary plot
+- Print accuracy scores
+- Show classification reports
+- Display a 2D decision boundary plot.
+
 The screenshots are added to 'Output_screenshots'.
