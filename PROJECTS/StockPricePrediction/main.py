@@ -8,7 +8,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import LSTM, Dense, Dropout
 
 # STEP 2: Download Data
-ticker = "AAPL"  # You can change this to "RELIANCE.NS", "TSLA", etc.
+ticker = "AAPL" 
 data = yf.download(ticker, start="2015-01-01", end="2023-12-31")
 print(data.head())
 
